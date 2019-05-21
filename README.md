@@ -1,3 +1,3 @@
-#An example project to push to github
+# An example project to push to github
 
 This will probably be deleted later ... 
